@@ -3,4 +3,4 @@ Hi, I'm Z! 👋
 I'm a computer science student
 
 🛠 Skills
-Javascript, HTML, CSS...
+Java, C++, Python
