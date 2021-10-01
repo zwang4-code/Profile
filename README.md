@@ -1,4 +1,4 @@
-# Hi, I'm Z! 👋 
+# Hi, I'm Z! 👋 :octocat:
 
 <a href="https://www.linkedin.com/in/zi-w-b7915944/"><img
 alt="LinkedIn"
@@ -13,7 +13,7 @@ I'm a computer science student
 ## 🛠 Skills
 Java, C++, Python
 
-## 🎳 
+## 🎳 Stats
 <a href="https://github.com/roxiomontes">
 <img align="center"
 src="https://github-readme-streak-stats.herokuapp.com/?user=zwang4-code&theme=material-palenight" />
