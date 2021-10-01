@@ -1,6 +1,9 @@
-Hi, I'm Z! 👋
-🚀 About Me
+# Hi, I'm Z! 👋
+
+  
+## 🚀 About Me
 I'm a computer science student
 
-🛠 Skills
-Java, C++, Python
+  
+## 🛠 Skills
+Javascript, HTML, CSS...
