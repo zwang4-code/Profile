@@ -20,7 +20,7 @@ src="https://github-readme-streak-stats.herokuapp.com/?user=zwang4-code&theme=ma
 </a><br>
 <a href="https://github.com/roxiomontes">
 <img align="center"
-src="https://github-readme-stats.vercel.app/api?username=zwang4-code&show_icons=true&theme=material-palenight" />
+src="https://github-readme-stats.vercel.app/api?username=zwang4-code&show_icons=true&theme=jolly" />
 </a><br>
 <a href="https://github.com/zwang4-code">
 <img align="center"
