@@ -3,7 +3,7 @@
 <a href="https://www.linkedin.com/in/zi-w-b7915944/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   
 ## 🚀 About Me
-I'm on my way to become a software engineer.  
+I'm on my way to become a software engineer. Check out my LinkedIn and GitHub to learn more about me and what I'm up to!
 
   
 ## 🛠 Skills
