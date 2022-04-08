@@ -1,4 +1,4 @@
-## 👋  Hi, my name is Zi Wang
+## 👋  Hi, my name is Zi Wang 🌸
 
 <a href="https://www.linkedin.com/in/zi-w-b7915944/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
