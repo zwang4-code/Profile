@@ -6,7 +6,7 @@
 
 📖 Currently I am expanding my repertoire in both frontend and backend development and am open for any internship opportunity in 2022/2023.
 
-🛠 Java, Python, C++, C#, JavaScript, HTML, CSS, React, Node.js, Express.js, ASP.NET, Socket, MySQL, Git 
+🛠 Java, Python, C#, C++, JavaScript, HTML5, CSS, JUnit, JDBC, React.js, Node.js, Socket.io, MySQL, ASP.NET, IntelliJ, Visual Studio, VS Code, Git
 
 ### 🎳 Stats
 <a href="https://github.com/zwang4-code">
