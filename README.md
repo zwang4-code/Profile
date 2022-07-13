@@ -2,7 +2,7 @@
 
 <a href="https://www.linkedin.com/in/zi-w-b7915944/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
-🎓 I am pursuing MSCS at Seattle University. (March 2021 - Dec 2023)
+🎓 I am pursuing MSCS at Seattle University.
 
 📖 Currently I am expanding my repertoire in both frontend and backend development and am open for any internship opportunity in 2022/2023.
 
